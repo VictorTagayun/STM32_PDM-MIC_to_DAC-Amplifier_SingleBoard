@@ -1,4 +1,4 @@
-# STM32_PDM-MIC_to_DAC-Amplifier_SingleBoard
+# STM32 PDM-MIC to DAC-Amplifier using SingleBoard
 
 Program flow
 
