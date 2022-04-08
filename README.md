@@ -1,4 +1,4 @@
-# STM32 PDM-MIC to DAC-Amplifier using SingleBoard
+# STM32 PDM MIC to I2S DACAmplifier using SingleBoard
 
 Program flow
 
